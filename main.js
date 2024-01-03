@@ -15,5 +15,6 @@ function startSudoku() {
     // Redirect or perform action for starting Tic Tac Toe game
     // You can add your Tic Tac Toe game logic here
     alert('Starting Tic Tac Toe!');
+    window.location.href = 'ttt.html';
   }
   
